@@ -6,7 +6,7 @@ Para executá-lo corretamente, é necessário utilizar um servidor local, como o
 ## 1. Baixar o projeto
 
 1. Baixe ou clone este repositório para o seu computador.
-2. Após o download, extraia os arquivos (pois não funciona em formato `.zip`.)
+2. Após o download, extraia a pasta 'fut' de dentro (pois não funciona em formato `.zip`.)
 
 ## 2. Mover a pasta do projeto
 
